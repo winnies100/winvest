@@ -2,16 +2,24 @@
 *{ 
     margin:0; 
     padding:0; 
-}
-<!-- Format entire navigation --> 
-u1 { 
+} 
 
+u1 {  
+    list-style: none;
 }
 
 u1 li { 
     list-style: none; 
+    display: inline-block; 
+    float: left; 
 }
 
 u1 li a { 
-    
+     text-decoration: none;  
+     font-size: 14px; 
+     font-family: arial; 
+     color: #1e1e1e; 
 }
+
+
+
