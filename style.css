@@ -1,4 +1,8 @@
 <!-- Style entire website--> 
+body{ 
+    background: green; 
+} 
+
 *{ 
     margin:0; 
     padding:0; 
